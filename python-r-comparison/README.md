@@ -27,7 +27,22 @@ Notes on the differences between programming in R and Python
 >>> x
 12
 ```
-###R Assignment to a vector
+###R - Assignment to a vector
 ```R
 z <- c(1.1, 9, 3.14)
 ```
+###Python Assignment to a vector
+```Python
+>>> z = [1.1, 9, 3.14]
+```
+
+###R - Find help "Combine Values into a Vector or List"
+```R
+> ?c
+```
+
+###Python - Find help "Combine Values into a Vector or List"
+```Python
+>>> help("list")
+```
+
