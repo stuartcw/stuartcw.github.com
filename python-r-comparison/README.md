@@ -45,4 +45,14 @@ z <- c(1.1, 9, 3.14)
 ```Python
 >>> help("list")
 ```
+###R - View the contents of a Vector.
+```R 
+> z
+[1] 1.10 9.00 3.14
+```
 
+###Python -  View the contents of a Vector.
+```Python
+>>> z
+[1.1, 9, 3.14]
+```
