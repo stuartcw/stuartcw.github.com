@@ -14,3 +14,16 @@ Notes on the differences between programming in R and Python
 >>> 5 + 7
 12
 ```
+
+## R
+```R
+> x <- 5 + 7
+> x
+[1] 12
+```
+## Python
+```Python
+>>> x = 5 + 7
+>>> x
+12
+```
