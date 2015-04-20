@@ -4,7 +4,7 @@ Notes on the differences between programming in R and Python
 
 ## Basic Building Blocks
 
-##R
+###R
 ```R
 > 5 + 7
 [1] 12
@@ -15,15 +15,19 @@ Notes on the differences between programming in R and Python
 12
 ```
 
-## R
+###R
 ```R
 > x <- 5 + 7
 > x
 [1] 12
 ```
-## Python
+###Python
 ```Python
 >>> x = 5 + 7
 >>> x
 12
+```
+###R Assignment to a vector
+```R
+z <- c(1.1, 9, 3.14)
 ```
